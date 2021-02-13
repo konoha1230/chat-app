@@ -1,0 +1,43 @@
+.wrapper {
+  display: flex;
+  height: 100vh;
+}
+
+.side-bar {
+  width: 300px;
+}
+
+.user-box {
+  background-color: #253141;
+  height: 100px;
+  padding: 0 20px;
+}
+
+.chat-index {
+  background-color: #2f3e51;
+  height: calc(100vh - 100px);
+  padding: 0 20px;
+}
+
+.chat {
+  width: calc(100vw - 300px);
+  background-color: #ffffff;
+}
+
+.header {
+  background-color: #ffffff;
+  height: 100px;
+  padding: 0 40px;
+}
+
+.main {
+  background-color: #fafafa;
+  height: calc(100vh - 100px - 90px);
+  padding: 46px 40px 0 40px;
+}
+
+.footer {
+  background-color: #dddddd;
+  height: 90px;
+  padding: 20px 40px;
+}
