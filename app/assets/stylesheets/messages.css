@@ -128,7 +128,7 @@
 .form-message {
   border: none;
   height: 50px;
-  width: 890px;
+  width: 100%;
   padding-left: 10px;
 }
 
@@ -154,4 +154,8 @@
 
 .hidden {
   display: none;
+}
+
+.field_with_errors {
+  display: contents;
 }
