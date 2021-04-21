@@ -83,26 +83,26 @@
   overflow: scroll;
 }
 
-.contents {
+.message {
   margin: 10px 0 0 0;
 }
 
-.chat-property {
+.upper-message {
   display: flex;
 }
 
-.send-user {
+.message-user {
   color: #434a54;
   font-size: 16px;
 }
 
-.send-time {
+.message-date {
   font-size: 12px;
   color: #999;
   margin-left: 10px;
 }
 
-.chat-message {
+.message-content {
   font-size: 14px;
   color: #434a54;
   margin-bottom: 40px;
