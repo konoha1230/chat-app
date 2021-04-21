@@ -59,7 +59,7 @@
   justify-content: space-between;
 }
 
-.chat-title p {
+.chat-title {
   margin-top: 36px;
   color: #333;
   font-size: 24px;
